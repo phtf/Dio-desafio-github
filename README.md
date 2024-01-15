@@ -1,4 +1,12 @@
-## Repositório do Desafio do Projeto sobre Git/Github da DIO 
-Repositório  para o desafio do projeto realizado no intuito de desenvolver o que foi aprendendido sobre o basico de github
+# Projeto One Shoot
+
+Inicio de projeto de um jogo estilo 2d de tiro
+
+## Desenolvimento
+
+|Etapa do desenolvimento |
+|--|
+|Inicio do prototypo |
+
 
 
